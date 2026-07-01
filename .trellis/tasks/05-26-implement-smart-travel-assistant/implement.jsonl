@@ -1,0 +1,11 @@
+{"file": ".trellis/spec/backend/index.md", "reason": "Backend spec index: lists all backend coding guidelines sub-agents must follow when writing FastAPI/Python code"}
+{"file": ".trellis/spec/backend/error-handling.md", "reason": "Error handling guidelines: Agent协作链路长，统一的错误处理策略至关重要"}
+{"file": ".trellis/spec/backend/quality-guidelines.md", "reason": "Backend quality standards: LLM返回解析、API响应格式、数据校验等质量要求"}
+{"file": ".trellis/spec/backend/logging-guidelines.md", "reason": "Logging guidelines: 多Agent协作需要结构化日志追踪各阶段状态"}
+{"file": ".trellis/spec/frontend/index.md", "reason": "Frontend spec index: lists all frontend coding guidelines for Vue 3 + TypeScript + Ant Design Vue"}
+{"file": ".trellis/spec/frontend/type-safety.md", "reason": "Type safety guidelines: 前后端Pydantic/TS类型对齐，确保数据流类型安全"}
+{"file": ".trellis/spec/frontend/component-guidelines.md", "reason": "Component guidelines: Home.vue和Result.vue的组件设计规范"}
+{"file": ".trellis/spec/frontend/quality-guidelines.md", "reason": "Frontend quality standards: 地图集成、异步数据流、错误边界等质量要求"}
+{"file": ".trellis/spec/guides/cross-layer-thinking-guide.md", "reason": "Cross-layer thinking: 前后端数据模型对齐、API契约一致性、跨层数据流验证"}
+{"file": ".trellis/spec/guides/code-reuse-thinking-guide.md", "reason": "Code reuse thinking: 多Agent共享AmapService/LLMClient等模式识别，避免重复代码"}
+{"file": ".trellis/tasks/05-26-implement-smart-travel-assistant/prd.md", "reason": "PRD: 完整的产品需求文档，定义数据模型、Agent协作流程、API接口、前端功能、项目结构"}

@@ -1,0 +1,8 @@
+{"file": ".trellis/spec/backend/index.md", "reason": "Backend spec index: check阶段需要验证后端代码符合规范"}
+{"file": ".trellis/spec/backend/error-handling.md", "reason": "Error handling: 检查Agent链路异常处理、API错误响应是否符合规范"}
+{"file": ".trellis/spec/backend/quality-guidelines.md", "reason": "Backend quality: 检查Pydantic模型校验、LLM JSON解析健壮性"}
+{"file": ".trellis/spec/frontend/index.md", "reason": "Frontend spec index: check阶段需要验证前端代码符合规范"}
+{"file": ".trellis/spec/frontend/type-safety.md", "reason": "Type safety: 检查TS interface与Pydantic模型字段对齐一致性"}
+{"file": ".trellis/spec/frontend/quality-guidelines.md", "reason": "Frontend quality: 检查组件质量、地图集成、异步处理"}
+{"file": ".trellis/spec/guides/cross-layer-thinking-guide.md", "reason": "Cross-layer check: 验证前后端数据流一致性、API契约合规"}
+{"file": ".trellis/tasks/05-26-implement-smart-travel-assistant/prd.md", "reason": "PRD: 验证实现是否完整覆盖PRD定义的所有功能点"}
